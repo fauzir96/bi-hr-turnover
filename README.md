@@ -16,7 +16,7 @@ A dynamic business intelligence dashboard was required to transform this raw dat
 
 This interactive, single-page dashboard was designed to provide an executive-level summary, allowing stakeholders to view key metrics and identify the most statistically significant drivers of turnover at a glance.
 
-![Screenshot HR - Turn Over.png](https://github.com/fauzir96/data-analysis-1/blob/main/Screenshot%20HR%20-%20Turn%20Over.png))
+![Screenshot HR - Turn Over.png](https://github.com/fauzir96/data-analysis-1/blob/main/Screenshot%20HR%20-%20Turn%20Over.png)
 
 ---
 ### 3. Key Insights & Findings
@@ -49,4 +49,4 @@ Based on these findings, three strategic recommendations are proposed for the HR
     - **DAX:** For creating custom calculations (e.g., `Turnover Rate`).
     - **AI Visuals (Key Influencers):** For statistical analysis to identify key drivers.
 - **Data**
-    - **Kaggle:** Employee [Attrition and Factors](https://www.kaggle.com/datasets/thedevastator/employee-attrition-and-factors) by The Devastator
+    - **Kaggle:** [Employee Attrition and Factors](https://www.kaggle.com/datasets/thedevastator/employee-attrition-and-factors) by The Devastator
