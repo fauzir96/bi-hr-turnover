@@ -16,7 +16,7 @@ A dynamic business intelligence dashboard was required to transform this raw dat
 
 This interactive, single-page dashboard was designed to provide an executive-level summary, allowing stakeholders to view key metrics (KPIs) and identify the most statistically significant drivers of turnover at a glance.
 
-_[Insert your final, beautiful dashboard screenshot here]_
+[[Screenshot HR - Turn Over.png]]
 
 ---
 ### 3. Key Insights & Findings
